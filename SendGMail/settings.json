@@ -1,0 +1,7 @@
+﻿{
+  "MailServer": "",
+  "MailPort": 587,
+  "FromAddr": "",
+  "ToAddr": "",
+  "GAppPassword": ""
+}
